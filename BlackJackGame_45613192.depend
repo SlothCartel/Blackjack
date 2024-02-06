@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697442594 source:c:\users\eugen\desktop\blackjack game\blackjackgame_45613192\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<time.h>
+	<fstream>
+

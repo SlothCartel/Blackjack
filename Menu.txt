@@ -1,0 +1,6 @@
+Menu:
+
+1. Rules of BlackJack
+2. Play BlackJack
+3. Display Win Rate
+4. Exit

@@ -1,0 +1,13 @@
+Rules of BlackJack:
+
+-In this version of BlackJack, one player plays against the dealer.
+-Both the dealer and the player are dealt two cards.
+-One of the dealer's cards are hidden, while both of the player's cards are visible.
+-Based on this information the player can decide to either Hit or Stand.
+-To Hit Means to deal another card.
+-To Stand means that no more cards should be dealt.
+-The aim of the game is to get as close to, or ideally 21 exactly.
+-Once the player is done, the dealer reveals their other card.
+-If the dealer's cards add up to less than 17, they must hit.
+-If the dealer's cards add up to 17 or more, they must stand.
+-Whoever is closer to 21 is the winner.
