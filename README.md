@@ -1,6 +1,6 @@
 # Blackjack Game
 
-Welcome to the Blackjack game, a simple yet engaging card game between a player and a dealer. This project showcases fundamental game development concepts using C++.
+Welcome to the Blackjack game, a simple yet engaging card game between a player and a dealer. This project showcases fundamental software development concepts using C++.
 
 ## Features
 
